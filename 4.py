@@ -1,0 +1,1 @@
+git stash work in this file as well. Will check this. OK.
